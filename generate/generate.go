@@ -15,7 +15,6 @@
 package generate
 
 import (
-	"fmt"
 	"strings"
 
 	"github.com/tal-tech/go-zero/tools/goctl/util/console"
